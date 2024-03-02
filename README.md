@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi guys 👋
+### Thanks for coming here, I'm here to learm everything from the world biggest tech source, especially Python and AI. 
+### UCLA and UC Berkeley are my favorite schools for undergraduate.
 <!--
 **dangdanhuy/dangdanhuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
